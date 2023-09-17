@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 👨‍🎓 I'm currently a senior engineering student at Washington and Lee University.
+- 💻 I'm currently learning about Software Development and Git procedures.
+- 🏃‍♂️ My favorite hobby is running!
 
 <!--
 **ZachM00re/ZachM00re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
