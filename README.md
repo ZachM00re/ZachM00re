@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👨‍🎓 I'm currently a senior engineering student at Washington and Lee University.
-- 💻 I'm currently learning about Software Development and Git procedures.
+- 💻 I'm currently learning about Software Development in Java!
 - 🏃‍♂️ My favorite hobby is running!
 
 <!--
